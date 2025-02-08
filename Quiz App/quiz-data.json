@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Processing Unit", "Central Power Unit", "Core Processing Utility"],
+    "correctAnswer": "Central Processing Unit"
+  },
+  {
+    "question": "Which of the following is an output device?",
+    "options": ["Keyboard", "Mouse", "Monitor", "Scanner"],
+    "correctAnswer": "Monitor"
+  },
+  {
+    "question": "What is the primary function of RAM?",
+    "options": ["Permanent storage", "Temporary memory", "Processing graphics", "Executing commands"],
+    "correctAnswer": "Temporary memory"
+  },
+  {
+    "question": "Which of the following is an example of system software?",
+    "options": ["Microsoft Word", "Google Chrome", "Windows OS", "Adobe Photoshop"],
+    "correctAnswer": "Windows OS"
+  },
+  {
+    "question": "Which type of memory is non-volatile?",
+    "options": ["RAM", "Cache Memory", "ROM", "Registers"],
+    "correctAnswer": "ROM"
+  },
+  {
+    "question": "Which component is known as the 'brain' of the computer?",
+    "options": ["RAM", "CPU", "Hard Drive", "Power Supply"],
+    "correctAnswer": "CPU"
+  },
+  {
+    "question": "Which of the following is an operating system?",
+    "options": ["Python", "Windows", "HTML", "Java"],
+    "correctAnswer": "Windows"
+  },
+  {
+    "question": "Which unit is used to measure computer processing speed?",
+    "options": ["Hertz", "Bits", "Bytes", "Megabytes"],
+    "correctAnswer": "Hertz"
+  },
+  {
+    "question": "What is the function of an ALU in a computer?",
+    "options": ["Store data", "Perform arithmetic and logic operations", "Control input/output devices", "Manage memory"],
+    "correctAnswer": "Perform arithmetic and logic operations"
+  },
+  {
+    "question": "Which of the following is an example of secondary storage?",
+    "options": ["Cache Memory", "RAM", "Hard Drive", "Registers"],
+    "correctAnswer": "Hard Drive"
+  }
+]
